@@ -1,0 +1,32 @@
+	(1)
+	MRW
+VARIABLES	lngdppc
+	
+opendots	0.000788
+	(0.00125)
+lnpop	-0.783***
+	(0.139)
+largedisaster	-0.00568
+	(0.0147)
+laglargedisaster	0.00238
+	(0.0193)
+_Iperiod_1	0.101***
+	(0.0194)
+_Iperiod_2	0.221***
+	(0.0336)
+_Iperiod_3	0.334***
+	(0.0462)
+_Iperiod_4	0.478***
+	(0.0560)
+_Iperiod_5	0.614***
+	(0.0661)
+_Iperiod_6	0.799***
+	(0.0759)
+Constant	20.78***
+	(2.245)
+	
+Observations	645
+Number of cntry	93
+R-squared	0.453
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

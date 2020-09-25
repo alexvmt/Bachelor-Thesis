@@ -1,0 +1,32 @@
+	(1)
+	Full
+VARIABLES	lngdppc
+	
+opendots	0.000400
+	(0.000603)
+lnpop	-0.484***
+	(0.162)
+largedisaster	0.00663
+	(0.0161)
+laglargedisaster	0.0527***
+	(0.0157)
+_Iperiod_1	0.0634***
+	(0.0233)
+_Iperiod_2	0.154***
+	(0.0384)
+_Iperiod_3	0.215***
+	(0.0546)
+_Iperiod_4	0.340***
+	(0.0598)
+_Iperiod_5	0.481***
+	(0.0659)
+_Iperiod_6	0.686***
+	(0.0743)
+Constant	15.71***
+	(2.510)
+	
+Observations	1,032
+Number of cntry	160
+R-squared	0.408
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
