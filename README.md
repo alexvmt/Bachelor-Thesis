@@ -22,13 +22,13 @@
 4. Empirical Strategy and Methods  
     4.1. IV Estimation and 2SLS Estimation  
     4.2. The Instrument of Felbermayr and Gröschl (2013)  
-    4.3. Empirical Strategy  
-        4.3.1. Second Stage  
+    4.3. Empirical Strategy    
+        4.3.1. Second Stage    
         4.3.2. First Stage
 5. Income and Trade Openness  
     5.1. First Stage  
     5.2. Second Stage
-6. Human Development and Trade Openness 
+6. Human Development and Trade Openness  
     6.1. First Stage  
     6.2. Second Stage
 7. Sensitivity Analysis: Decomposing the HDI  
