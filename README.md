@@ -5,7 +5,7 @@
 - Topic: Trade Openness and Human Development - A Panel Analysis of the Human Development Index and its Components
 - Author: Alexander Merdian-Tarko
 - Study program: B. Sc. Economics and Business Administration
-- Supervisor: Professor Dr. Wilhelm Kohler and Peter Eppinger
+- Supervisors: Professor Dr. Wilhelm Kohler and Peter Eppinger
 - Department: Chair of International Economics
 - Faculty: Faculty of Economics and Social Sciences
 - University: University of Tübingen
@@ -22,4 +22,4 @@
 7. Sensitivity Analysis: Decomposing the HDI
 8. Conclusion
 
-Note: The data used in this thesis is not explicitly included since parts of it are confidential.
+*Note: The data used in this thesis is not included in this repository since parts of it are confidential.*
